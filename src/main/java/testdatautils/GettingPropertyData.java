@@ -5,7 +5,7 @@ import java.util.Properties;
  * The Reason of this class is to get the test data inside the properties file
  * Of courses can be used directly in the page
  * But this to handle the "No Data" exception , if we are going to build a framework
- * Also there are many ways of the DDT such as reading from JSON files or Excel files and both could be used  *
+ * Also there are many ways of the DDT such as reading from JSON files   *
  */
 
 public class GettingPropertyData {
