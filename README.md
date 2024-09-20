@@ -1,5 +1,5 @@
 # TestAutomationTask_APAR[Selenium]
- Testing high level scenarios on http://automationpractice.com/index.php  website using Selenium
+ Testing high level scenarios on  https://subscribe.stctv.com/  website using Selenium
  , TestNG by applying OOP and applying some of the best practices according to my current knowledge . 
  
 # Task Requirements  :- 
