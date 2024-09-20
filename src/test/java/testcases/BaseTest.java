@@ -14,8 +14,6 @@ public class BaseTest {
     public WebDriver driverInitializer(){
         WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
-        driver.manage().window().fullscreen();
-
         return driver ;
     }
 
