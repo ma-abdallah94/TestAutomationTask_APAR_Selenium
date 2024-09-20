@@ -21,4 +21,4 @@
 * Waits : Explicitly Waits 
 
 # TestNG My Results
-![](TestResults/TestNG Report.png)
+![](TestResults/TestNGReport.png)
